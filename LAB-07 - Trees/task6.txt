@@ -1,0 +1,10 @@
+Traversal Results
+
+Inorder: Visit left subtree, then root, then right subtree
+D B E A C F
+
+Preorder: Visit root first, then left and right 
+A B D E C F
+
+Postorder: Visit left and right first, then root
+D E B F C A

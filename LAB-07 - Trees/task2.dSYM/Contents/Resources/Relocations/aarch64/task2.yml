@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alinawaz/Developer/DSA/LAB-07/task2'
+relocations:     []
+...
